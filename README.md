@@ -14,6 +14,8 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
+- 🔭 I’m currently working on [Inventory management system](https://github.com/rblcoder/inventoryManagementApp)
+
 - 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
