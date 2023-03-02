@@ -18,6 +18,8 @@
 
 - 💬 Ask me about **Python**
 
+- ⚡ Fun fact: I have worked with Delphi, not used much anymore, now working on Python and Java!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rupa-lahiri-developer" target="blank">LinkedIn</a>
