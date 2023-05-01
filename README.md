@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact: I have worked with Delphi, not used much anymore, now working on Python and Java!
+- ⚡ Fun fact: I love [Calvin and Hobbes](https://www.gocomics.com/calvinandhobbes/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
