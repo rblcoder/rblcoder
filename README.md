@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **AWS**
 
 - 🔭 I’m currently working on [Inventory management system](https://github.com/rblcoder/inventoryManagementApp)
 
