@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 🔭 I’m currently working on [Inventory management system](https://github.com/rblcoder/inventoryManagementApp)
-
 - 💬 Ask me about **Python**
 
 - ⚡ Fun fact: I love [Calvin and Hobbes](https://www.gocomics.com/calvinandhobbes/)!
