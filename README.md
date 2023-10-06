@@ -18,13 +18,6 @@
 
 - ⚡ Fun fact: I love [Calvin and Hobbes](https://www.gocomics.com/calvinandhobbes/)!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rupa-lahiri-developer" target="blank">LinkedIn</a>
-
-<a href="https://www.leetcode.com/rupacoach" target="blank">LeetCode</a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <p>
 Python
